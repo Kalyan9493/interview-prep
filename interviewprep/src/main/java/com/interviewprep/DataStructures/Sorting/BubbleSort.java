@@ -2,7 +2,7 @@ package com.interviewprep.DataStructures.Sorting;
 
 import java.util.Arrays;
 
-public class BubbleSort {
+public class   BubbleSort {
     public static void main(String[] args){
         int[] arr = {5,6,3,1,15,45,32,23};
         System.out.println("Array before sorting : " + Arrays.toString(arr));
